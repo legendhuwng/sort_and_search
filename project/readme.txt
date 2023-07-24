@@ -1,1 +1,1 @@
-day la source code C/C++ dung visua studio 10 
+day la source code C/C++ dung visual studio 10 
